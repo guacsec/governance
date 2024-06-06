@@ -5,14 +5,14 @@ Recording URL: https://youtu.be/iJC8eqknBoA
 ## Attendees
 
 | Name | Email | Affiliation | Pronouns
-| ==== | ===== | =========== | ========
+| ---- | ----- | ----------- | --------
 | Jeff Mendoza | jlm@jlm.name | Kusari | he/him
 | Ben Cotton | ben@kusari.dev | Kusari | he/him
 | Mike Lieberman | mike@kusari.dev | Kusari | he/him
 | Santiago Torres-Arias | santiagotorres@purdue.edu | Purdue | he/him
 | Marco Deicas | mdeicas@google.com | Google | he/him
 | Parth Patel | parth@kusari.dev | Kusari | he/him
-| Fotis Georgatos kefalonia@gmail.com,fotis@cern.ch | CERN |he/him
+| Fotis Georgatos | kefalonia@gmail.com,fotis@cern.ch | CERN |he/him
 | Mihai Maruseac | mihaimaruseac@google.com | Google | he/him
 | Narsa Chelluri | narsa@kusari.dev | Kusari | he/him
 | Soham Arora | arora106@purdue.edu | Purdue | he/him
