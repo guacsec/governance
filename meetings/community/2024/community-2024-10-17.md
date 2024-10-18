@@ -12,6 +12,7 @@ Recording: https://youtu.be/gIs2ZffwTOY
 * Parth Patel (Kusari)
 * Casey Fahey (NetGoalie)
 * Mihai Maruseac (Google)
+* Mohamed Chorfa (Thales SA)
 
 ## Agenda
 
