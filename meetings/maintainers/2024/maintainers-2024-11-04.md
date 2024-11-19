@@ -1,4 +1,4 @@
-# GUAC Maintainers Meeting: 2024-10-28
+# GUAC Maintainers Meeting: 2024-11-04
 
 Recording: https://youtu.be/7S2b1xAh1OQ
 
