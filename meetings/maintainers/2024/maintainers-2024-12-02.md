@@ -11,7 +11,6 @@ Recording: https://youtu.be/-e5xLAOONA0
 | Brandon Lum | lumb@google.com | Google | he/him
 | Parth Patel | parth@kusari.dev | Kusari | he/him
 | Jeff Mendoza | jeff@kusari.dev | Kusari |he/him
-| Mihai Maruseac | mihaimaruseac@google.com | Google | he/him
 | Dejan Bosanac | dbosanac@redhat.com | Red Hat | he/him
 
 ## Agenda
