@@ -2,9 +2,7 @@
 
 ## License
 
-The project will use [Apache 2.0 license](LICENSE) for code. To start, the
-project will not be under any foundation, and does not have immediate plans to
-do so. However, this may change in the future.
+The project will use [Apache 2.0 license](LICENSE) for code.
 
 ## Maintainership
 
