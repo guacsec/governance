@@ -1,12 +1,34 @@
 # Governance
 
-## License
+## GUAC community
 
-The project will use [Apache 2.0 license](LICENSE) for code.
+The GUAC community (including GUAC OpenSSF meetings, website  and [github organization](https://github.com/guacsec/) administration) is home to several projects focused around solving problems related to the consumption and utilization of supply chain metadata at scale. The community contains "Core projects" which emcapsulate large bodies of work where a separate governance of code and process makes sense, while retaining requirements around aspects such as licensing and code of conduct.
 
-## Maintainership
+Thus the governance is structured into the "GUAC community maintainers" team and "GUAC core projects" maintainers teams.
 
-List of maintainers can be found at [MAINTAINERS](MAINTAINERS).
+### GUAC community index
+
+- GUAC Community:
+  - governance
+  - guac-landing
+  - guac-site
+  - .allstar
+  - .github
+- GUAC Core Project: Graph for Understanding Artifact Composition (GUAC) ([MAINTAINERS.guac](MAINTAINERS.guac))
+  - guac-docs
+  - sw-id-core
+  - guac-visualizer
+  - guac-data
+  - helm-charts
+  - guacaidemo
+  - guac-test
+- GUAC Core Project: Trustify ([MAINTAINERS.trustify](MAINTAINERS.trustify))
+
+Unless specified, all other resources and projects will fall under governance of the broader GUAC community.
+
+### GUAC community maintainers
+
+List of GUAC community maintainers can be found at [MAINTAINERS](MAINTAINERS).
 
 Maintainership is driven by engineering contributions to the project, and a n-1
 vote among current maintainers is required to make changes to the list of
@@ -15,53 +37,23 @@ unmet due to a maintainer’s inactivity for 3 months — without prior notice a
 concurrence to the absence — the inactive maintainer will be removed from the
 project and the decision documented.
 
-At any one time, there should be at least 3 maintainers.
+At any one time, there should be at least 3 maintainers, with each core project
+represented by at least 1 maintainer.
+
+## GUAC core project governance
+
+- Each core project consists of multiple github repos, that should all live within [the guacsec github organization](https://github.com/guacsec/). This would provide a single organizational home for related projects, simplifying discovery and collaboration.
+- Each core project establishes its own project governance and contribution ladders.
+- Each core project will have write and admin privileges to individual code repositories.
+- Core projects are required to communicate their governance changes GUAC community maintainers.
+- Core projects must use licenses which are agreed upon by the GUAC community maintainers.
+- Core projects must have code of conduct requirements which are agreed upon by the GUAC community maintainers.
+- The scope of each core project is defined within the [GUAC community index](#guac-community-index)
 
 ## Code of Conduct
 
 Please refer to the [Code of Conduct](CODE_OF_CONDUCT.md) for full details.
 
-## Technical Advisory Members
+## License
 
-Due to the nature of the project aiming to establish a common knowledge graph
-representation, the project will also have a set of “Technical Advisory
-Members”.
-
-Technical Advisory Members provide input into the project, to assist in
-providing maintainers of the project with information that can help lead to more
-informed decisions and thus, a more successful project. It is noted that
-Technical Advisory Members’ main purpose is to inform, and the project
-maintainers will shape its direction, work items and roadmap as they best
-determine based on the advice provided.
-
-Logistics
-
-- Members will be part of a mailing list that will contain updates from the
-  project
-- Members will provide feedback directly to the mailing list or to project
-  maintainers directly in the approved communication medium to ensure all
-  parties are informed
-- Membership has no term as long as there is relevance to the project
-- Members, and their companies (by choice), will be listed on the project page
-  and contributions acknowledged
-- During significant milestones, or quarterly (whichever comes first), an
-  optional meeting/demo will be hosted with invitations to members,
-
-Responsibilities
-
-- Provide feedback to the project on relevant use cases that should be
-  considered in the project
-- Provide feedback to the project especially in regards to technical direction
-  and emerging technologies
-- Provide recommendations for additional Technical Advisory Members
-
-Technical Advisory Membership is provided by:
-
-- Directly by invitation of project maintainers
-- Approved recommendations by other members
-- If members are seen to act disruptively, they may be given warnings of their
-  disruptive actions, with up to two warnings. Disruptive behavior
-- Upon the 3rd occurance of disruptive behavior, membership may be removed by
-  unanimous vote by maintainers
-- Members who are found to be threatening and malicious, e.g. active harassment
-  will be removed immediately with vote by 2 maintainers
+The project will use [Apache 2.0 license](LICENSE) for code.
