@@ -41,17 +41,40 @@ The steering committees' responsibilities include
 - Resolve conflicts in the GUAC community and escalate to the OpenSSF where appropriate
 - Adminstration of GUAC OpenSSF meetings, website  and [github organization](https://github.com/guacsec/)
 
+#### Rules
+
+The steering committee will consist of the following seats:
+- 3 general seats
+- 1 seat per core project (core project seat)
+
+The general rules and restrictions on the seats are:
+- The steering committee must be represented by at least 2 different employers
+- Each change in seat is decided by majority vote of the steering committee
+- Inactivity of a member for >3 months will result in removal
+- There must be at least 3 active steering committee members at any time
+- There is no limit on member terms
+
+##### General seat
+
+There are no restrictions on who can occupy this seat.
+
+##### Core project seat
+
+The person that occupies this seat must be a maintainer on the respective core project.
+
 #### Process
 
-Membership is driven by engineering contributions to the project, and a n-1
-vote among current member is required to make changes to the list of
-members. Should the quorum of necessary members to merge changes be
-unmet due to a member’s inactivity for 3 months — without prior notice and
-concurrence to the absence — the inactive member will be removed from the
-project and the decision documented.
+To establish a change in steering committee members:
+1. A proposal is made by a steering committee member by opening up an issue in [GUAC governance](http://github.com/guacsec/governance/)
+1. The proposal needs to be communicated on all [supported community channels](https://guac.sh/community/)
+1. Steering committee members can approve the proposal by providing a +1 on the issue
+1. Any member of the community can comment on proposals
+1. After 2 weeks upon communication of the proposal, and with majority steering committee member approvals, the change in steering committee members will be in effect
 
-At any one time, there should be at least 3 member, with each core project
-represented by at least 1 member.
+##### Process exceptions
+
+- In the case where there isn't a quorum for a steering committee that meets the [rules](#rules), steering committee membership will be bootstrapped and proposed for [OpenSSF TAC](https://github.com/ossf/tac) approval
+- Failing resoultion by the steering committee, any issues related to steering committee membership and process can be escalated to the [OpenSSF TAC](https://github.com/ossf/tac)
 
 ## GUAC core project governance
 
