@@ -24,6 +24,14 @@ Thus the governance is structured into the "GUAC Steering Committee" team and "G
   - guacaidemo
   - guac-test
 - GUAC Core Project: Trustify ([MAINTAINERS.trustify](MAINTAINERS.trustify))
+  - trustify
+  - trustify-ui
+  - trustify-helm-charts
+  - trustify-scale-testing
+  - trustify-scale-test-runs
+  - trustify-release-tools
+  - trustify-da-api-spec
+  - trustify-mcp
 
 Unless specified, all other resources and projects will fall under governance of the broader GUAC community.
 
